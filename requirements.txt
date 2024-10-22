@@ -13,8 +13,7 @@ invisible-watermark
 einops
 accelerate
 toml
-albumentations==1.4.15
-albucore==0.0.16
+albumentations
 pydantic
 omegaconf
 k-diffusion
@@ -27,7 +26,7 @@ bitsandbytes
 hf_transfer
 lpips
 pytorch_fid
-optimum-quanto==0.2.4
+optimum-quanto
 sentencepiece
 huggingface_hub
 peft
